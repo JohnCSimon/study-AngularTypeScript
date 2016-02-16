@@ -1,0 +1,20 @@
+{
+  "name": "apm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "test2": "echo \"blooooo\" ",
+    "gulp": "gulp"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-typescript": "^2.11.0",
+    "gulp-watch": "^4.3.5",
+    "tslint": "^3.3.0"
+  }
+}
